@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Beginner Baking Class",
+    "price": 50
+  },
+  {
+    "id": 2,
+    "title": "Art Therapy Session",
+    "price": 40
+  }
+]
